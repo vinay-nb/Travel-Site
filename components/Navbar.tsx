@@ -30,6 +30,7 @@ const Navbar = () => {
         />
       </div>
       <Image
+        unoptimized
         src="/menu.svg"
         alt="menu"
         width={32}

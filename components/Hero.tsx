@@ -27,6 +27,7 @@ const Hero = () => {
               .fill(1)
               .map((_, index) => (
                 <Image
+                  unoptimized
                   src="/star.svg"
                   key={index}
                   alt="star"
